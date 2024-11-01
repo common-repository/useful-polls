@@ -1,0 +1,194 @@
+.auto_num{
+	width: 50px;
+}
+
+#add_result_table,
+#add_poll_table,
+#add_fields,{
+ width:90%;
+}
+
+#add_poll_question,
+#add_field_question{
+ width:65%;
+}
+.add_poll_question_label,
+.add_field_question_label{
+	float: left;
+	margin-right: 15%;
+}
+
+#add_poll_table,
+#add_fields td:nth-child(1) label input {
+    border: 0;
+   
+
+}
+
+#add_result_table td:nth-child(1)
+{
+	width: 25px;
+}
+
+
+#add_result_table td:nth-child(2){
+
+	width: 400px;
+	border-right: 0;
+}
+
+
+#add_result_table tr{
+
+border:1px grey solid;
+	border-right: 0;
+ 
+}
+
+#add_poll_table input,
+#add_fields td:nth-child(2) input{
+  width:100% !important;
+  margin-left: -15%;
+}
+
+.start_date_time select,
+.end_date_time select{
+   display: inline-block;
+}
+
+.form_update{
+	display: none;
+	width: 80%;
+}
+.question_label,
+.poll_answer_1,
+.poll_answer_2,
+.poll_answer_3,
+.poll_answer_4{
+	float: left;
+}
+
+.form_of_voting label{
+	float: left;
+}
+#add_question{
+	width:95%;
+}
+
+#add_question > tbody > tr:nth-child(1) td:nth-child(1){
+	width: 15%;
+}
+#add_question > tbody > tr:nth-child(1) td:nth-child(2) {
+
+	width: 85%;
+	
+}
+
+#add_question{
+	border: none;
+	
+}
+
+
+
+#add_fields td:nth-child(1){
+
+	width: 25%;
+	
+}
+
+#add_fields td:nth-child(2){
+
+	width: 40%;
+	
+}
+
+.poll_vote{
+	width:60px;
+}
+
+
+#add_poll_question{
+	width:95%;
+}
+
+
+#add_poll_table tr td:nth-child(1){
+	width: 25%;
+}
+
+
+#add_poll_table tr td:nth-child(2){
+	width: 40%;
+}
+
+#add_poll_table tr td:nth-child(3){
+	width: 25%;
+}
+
+#form_update_table tr:nth-child(1) td:nth-child(2) input{
+width:300px;
+}
+#form_update_table tr td:nth-child(1) input{
+width:100px;
+}
+#form_update_table tr td:nth-child(2) input{
+width:200px;
+}
+#form_update_table tr td:nth-child(3) label{
+width:90px;
+}		
+#form_update_table tr td:nth-child(4) input{
+width:63px;
+}
+
+
+
+    .outer, .inner {
+      height: 12px;
+     /* margin-bottom: 5px;*/
+    }
+
+    .outer {
+      background-color: #cccccc;
+      width: 33px !important;
+      margin: 0 auto;
+    }
+
+    .inner {
+     background-color: #66a3ff;
+             height: 0px;
+
+       border-color: coral;
+
+    }
+
+td {
+    border:none;
+}
+table {
+    border:1px solid #CCC;
+    border-collapse:collapse;
+}
+
+.table_results_on_front_end,
+.checkbox_form{
+max-width:300px !important;
+}
+.checkbox_form label{
+	font-size: 20px;
+}
+.question_class{
+		font-size: 16px !important;
+
+}
+.table_results_on_front_end table{
+		font-size: 16px;
+}
+
+.table_results_on_front_end table tr td:nth-child(4) div{
+	width:32px;
+
+}
+
+
